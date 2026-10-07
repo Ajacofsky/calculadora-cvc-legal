@@ -4,7 +4,7 @@ import numpy as np
 import math
 
 # ==========================================
-# 1. MOTOR DE VISIÓN COMPUTARIZADA Y LÓGICA
+# 1. MOTOR DE VISIÓN COMPUTARIZADA Y LÓGICA 
 # ==========================================
 
 def procesar_campo_visual(image_bytes):
